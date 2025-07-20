@@ -6,7 +6,7 @@ from rest_framework.views import APIView
 
 class Test(APIView):
     def get(self,request,*args,**kwargs):
-        return Response("test class")
+        return Response("test classssss")
         
 
 
